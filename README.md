@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5EFFF8&size=27&lines=Hola!+Soy+Emmanuel;Soy+Desarrollador+de+software;Y+amo+programar!)](https://git.io/typing-svg)
+
 <!--
 **EmmanuelCruz/EmmanuelCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
