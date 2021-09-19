@@ -3,7 +3,7 @@
 ![head.png](https://github.com/EmmanuelCruz/EmmanuelCruz/blob/main/Resources/readme-top.png)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5EFFF8&size=60&width=900&lines=Hola!+Soy+Emmanuel;Desarrollador+de+Software;Ayudante+de+Profesor;Y+me+encanta+programar!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5EFFF8&size=30&width=900&lines=Hola!+Soy+Emmanuel;Desarrollador+de+Software;Ayudante+de+Profesor;Y+me+encanta+programar!)](https://git.io/typing-svg)
 
 <p align="center">
   Hola, soy egresado de la carrera de Ciencias de la Computación en la Facultad de Ciencias
