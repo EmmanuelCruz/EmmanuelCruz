@@ -3,7 +3,7 @@
 ![head.png](https://github.com/EmmanuelCruz/EmmanuelCruz/blob/main/Resources/readme-top.png)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5EFFF8&size=40&width=900&lines=Hola!+Soy+Emmanuel;Desarrollador+de+Software;Ayudante+de+Profesor;Y+me+encanta+programar!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5EFFF8&size=60&width=900&lines=Hola!+Soy+Emmanuel;Desarrollador+de+Software;Ayudante+de+Profesor;Y+me+encanta+programar!)](https://git.io/typing-svg)
 
 <p align="center">
   Hola, soy egresado de la carrera de Ciencias de la Computación en la Facultad de Ciencias
@@ -76,17 +76,14 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/EmmanuelCruz/Web-Scraping" title="Web-Scraping
-"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Web-Scraping
-&cache_seconds=86400&theme=algolia"></a>
+"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Web-Scraping&cache_seconds=86400&theme=algolia"></a>
   <a align="right" href="https://github.com/EmmanuelCruz/Codenow_por_Voz" title="Codenow_por_Voz
-"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Codenow_por_Voz
-&cache_seconds=86400&theme=algolia"></a>
+"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Codenow_por_Voz&cache_seconds=86400&theme=algolia"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/EmmanuelCruz/Graficacion_por_Computadora" title="Graficacion_por_Computadora">
-  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Graficacion_por_Computadora
-&cache_seconds=86400&theme=algolia"></a>
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Graficacion_por_Computadora&cache_seconds=86400&theme=algolia"></a>
   <a align="right" href="https://github.com/EmmanuelCruz/Taqueria_Galactica" title="Taqueria_Galactica"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Taqueria_Galactica&cache_seconds=86400&theme=algolia"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
@@ -98,8 +95,7 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/EmmanuelCruz/Kotlin" title="Kotlin"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Kotlin&cache_seconds=86400&theme=algolia"></a>
   <a align="right" href="https://github.com/EmmanuelCruz/Material-ICC-2021-1" title="
-Material-ICC-2021-1"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=
-Material-ICC-2021-1&cache_seconds=86400&theme=algolia"></a>
+Material-ICC-2021-1"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Material-ICC-2021-1&cache_seconds=86400&theme=algolia"></a>
 </div>
 <br><br><br><br><br><br>
 
