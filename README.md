@@ -102,16 +102,16 @@ Material-ICC-2021-1"><img align="right" height="115" src="https://github-readme-
 <h2 align="center"> 🤙 Contacto 🤙 </h2>
 
 <p align="center">
-<a href="#" title="contacto">
+<a href="emmanuel_cruzh@ciencias.unam.com" title="contacto">
   <img align="left" width=150 height="80" src="https://github.com/EmmanuelCruz/EmmanuelCruz/blob/main/Resources/gmail-logo.png" alt="gmail" />
 </a>
- <a href="#" title="contacto">
+ <a href="https://www.youtube.com/channel/UCUTWYHMKlrmcWy27Z3wwIeg" title="contacto">
   <img align="left" width=150 height="80" src="https://github.com/EmmanuelCruz/EmmanuelCruz/blob/main/Resources/youtube-logo.png" alt="youtube" />
 </a>
-<a href="#" title="contacto">
+<a href="https://www.linkedin.com/in/emmanuel-cruz-hern%C3%A1ndez-42607520a/" title="contacto">
   <img align="left" width=150 height="80" src="https://github.com/EmmanuelCruz/EmmanuelCruz/blob/main/Resources/linkedin-logo.png" alt="linkedin" />
 </a>
-<a href="#" title="contacto">
+<a href="https://codenowprogramming.000webhostapp.com/" title="contacto">
   <img align="left" width=150 height="80" src="https://github.com/EmmanuelCruz/EmmanuelCruz/blob/main/Resources/CodeNow.png" alt="codenow" />
 </a>
 </p>
