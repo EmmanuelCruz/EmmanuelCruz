@@ -74,35 +74,35 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/EmmanuelCruz/Web-Scraping" title="Web-Scraping
-"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Web-Scraping&theme=algolia&border_color=61dafb&border_radius=10"></a>
+"><img align="center" height="115" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Web-Scraping&theme=algolia&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/EmmanuelCruz/Codenow_por_Voz" title="Codenow_por_Voz
-"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Codenow_por_Voz&theme=algolia&border_color=61dafb&border_radius=10"></a>
+"><img align="center" height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Codenow_por_Voz&theme=algolia&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/EmmanuelCruz/Graficacion_por_Computadora" title="Graficacion_por_Computadora">
-  <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Graficacion_por_Computadora&theme=algolia&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/EmmanuelCruz/Taqueria_Galactica" title="Taqueria_Galactica"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Taqueria_Galactica&theme=algolia&border_color=61dafb&border_radius=10"></a>
+  <img align="center" height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Graficacion_por_Computadora&theme=algolia&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/EmmanuelCruz/Taqueria_Galactica" title="Taqueria_Galactica"><img align="center" height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Taqueria_Galactica&theme=algolia&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/EmmanuelCruz/TSP-Algoritmos-Geneticos" title="TSP-Algoritmos-Geneticos"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=TSP-Algoritmos-Geneticos&theme=algolia&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/EmmanuelCruz/Animacion_por_Computadora" title="Animacion_por_Computadora"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Animacion_por_Computadora&theme=algolia&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/EmmanuelCruz/TSP-Algoritmos-Geneticos" title="TSP-Algoritmos-Geneticos"><img align="center" height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=TSP-Algoritmos-Geneticos&theme=algolia&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/EmmanuelCruz/Animacion_por_Computadora" title="Animacion_por_Computadora"><img align="center" height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Animacion_por_Computadora&theme=algolia&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/EmmanuelCruz/Kotlin" title="Kotlin"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Kotlin&theme=algolia&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/EmmanuelCruz/Material-ICC-2021-1" title="
 Material-ICC-2021-1"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelCruz&repo=Material-ICC-2021-1&theme=algolia&border_color=61dafb&border_radius=10"></a>
 </div>
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 <hr>
 
 <h2 align="center"> 🤙 Contacto 🤙 </h2>
 
 <p width=100% align="center">
-<a href="emmanuel_cruzh@ciencias.unam.com" title="contacto">
+<a href="emmanuel_cruzh@ciencias.unam.mx" title="contacto">
   <img align="left" height="80" src="https://github.com/EmmanuelCruz/EmmanuelCruz/blob/main/Resources/gmail-logo.png" alt="gmail" />
 </a>
 <a href="https://www.youtube.com/channel/UCUTWYHMKlrmcWy27Z3wwIeg" title="contacto">
@@ -115,7 +115,7 @@ Material-ICC-2021-1"><img align="center" height="115" src="https://github-readme
   <img align="left" height="80" src="https://github.com/EmmanuelCruz/EmmanuelCruz/blob/main/Resources/icono_verde.png" alt="codenow" />
 </a>
 </p>
-<br><br><br>
+<br><br><br><br>
 
 <hr>
 
