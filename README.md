@@ -61,7 +61,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelCruz&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&langs_count=8&layout=compact&theme=algolia" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelCruz&langs_count=8&hide=C&layout=compact&theme=algolia" />
     </a>
   </div>
   <br>
@@ -102,7 +102,7 @@ Material-ICC-2021-1"><img align="center" height="115" src="https://github-readme
 <h2 align="center"> 🤙 Contacto 🤙 </h2>
 
 <p width=100% align="center">
-<a href="emmanuel_cruzh@ciencias.unam.mx" title="contacto">
+<a href="mailto:emmanuel_cruzh@ciencias.unam.mx" title="contacto">
   <img align="left" height="80" src="https://github.com/EmmanuelCruz/EmmanuelCruz/blob/main/Resources/gmail-logo.png" alt="gmail" />
 </a>
 <a href="https://www.youtube.com/channel/UCUTWYHMKlrmcWy27Z3wwIeg" title="contacto">
