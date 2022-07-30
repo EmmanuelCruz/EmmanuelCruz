@@ -1,50 +1,86 @@
 ![head.png](https://github.com/EmmanuelCruz/EmmanuelCruz/blob/main/Resources/readme-top.png)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5EFFF8&size=30&width=900&lines=Hola!+Soy+Emmanuel;Desarrollador+de+Software;Ayudante+de+Profesor;Me+encanta+programar!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5EFFF8&size=30&width=900&lines=Hola!+Soy+Emmanuel;Desarrollador+Full+Stack;Ayudante+de+Profesor)](https://git.io/typing-svg)
 
 <p align="center">
-  Hola, soy egresado de la carrera de Ciencias de la Computación en la Facultad de Ciencias
+  Soy egresado de la carrera de Ciencias de la Computación en la Facultad de Ciencias, UNAM.
   <br>
   <br>
   🔬 Actualmente soy Ayudante de Profesor de asignatura B en la Facultad de Ciencias.
   <br>
-  🎓 Egresado de la licenciatura Ciencias de la Computación, UNAM.
+  🎓 Egresado de la licenciatura en Ciencias de la Computación, UNAM.
   <br>
   🎓 Egresado del Centro Tecnológico CCPM (Centro de Computación Profesional de México).
   <br>
   🎓 Fui estudiante en la Escuela Nacional de Lenguas, Lingüística y Traducción (CELE-ENALLT).
   <br>
-  💻 Me encanta programar, escribir código y aprender nuevas técnicas y tecnologías para la programación.
+  💻 Me encanta programar, escribir código y aprender nuevas técnicas y tecnologías para la programación y el diseño.
   <br>
-  📚 Actualmente estoy aprendiendo Vue, Django, Flask y SCRUM.
+  📚 Actualmente estoy aprendiendo React y desarrollando Skills de Alexa, Amazon.
 </p>
 
 <hr>
-<h2 align="center">🔥 Lenguajes & Frameworks & Herramientas & Habilidades 🔥</h2>
+<h2 align="center"> Lenguajes de programación</h2>
 <br>
 <p align="center">
   <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
+  <code><img title="Kotlin" height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/11f54bac1b6dfad2cbd1c6da9f2245ec8b5ea22b/logos/kotlin-icon.svg"></code>
+  <code><img title="Haskell" height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/11f54bac1b6dfad2cbd1c6da9f2245ec8b5ea22b/logos/haskell-icon.svg"></code>
+  <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
+</p>
+
+<hr>
+<h2 align="center"> Frameworks & Herramientas </h2>
+<br>
+<p align="center">
+  <code><img title="React" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/react-original.svg"></code>
+  <code><img title="Angular" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/angularjs.png"></code>
+  <code><img title="Vue" height="25" src="https://i.imgur.com/oUH9hNy.png"></code>
   <code><img title="Django" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.png"></code>
+  <code><img title="Flask" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/flask.png"></code>
+  <code><img title="Flask" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/flask.png"></code>
+  <code><img title="Alexa Developer" height="25" src="https://seeklogo.com/images/A/amazon-alexa-logo-D1BE24A213-seeklogo.com.png"></code>
+  <code><img title="npm" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/npm.svg"></code>
   <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
   <code><img title="SASS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/sass.svg"></code>
   <code><img title="Gulp" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/gulp.svg"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
   <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
   <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/visualstudio.png"></code>
   <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
-  <code><img title="Flask" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/flask.png"></code>
-  <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
+  <code><img title="GitLab" height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/11f54bac1b6dfad2cbd1c6da9f2245ec8b5ea22b/logos/gitlab.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
 </p>
+
+<hr>
+<h2 align="center"> Bases de Datos </h2>
+<br>
+<p align="center">
+  <code><img title="DynamoDB" height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/11f54bac1b6dfad2cbd1c6da9f2245ec8b5ea22b/logos/aws-dynamodb.svg"></code>
+  <code><img title="MongoDB" height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/11f54bac1b6dfad2cbd1c6da9f2245ec8b5ea22b/logos/mongodb.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/postgresql.svg"></code>
+  <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
+  <code><img title="Firebase" height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/11f54bac1b6dfad2cbd1c6da9f2245ec8b5ea22b/logos/firebase.svg"></code>
+
+</p>
+
+<hr>
+<h2 align="center"> Sobre AWS </h2>
+<br>
+<p align="center">
+  <code><img title="Lambda" height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/11f54bac1b6dfad2cbd1c6da9f2245ec8b5ea22b/logos/aws-lambda.svg"></code>
+  <code><img title="API GATEWAY" height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/11f54bac1b6dfad2cbd1c6da9f2245ec8b5ea22b/logos/aws-api-gateway.svg"></code>
+  <code><img title="Cloudwatch" height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/11f54bac1b6dfad2cbd1c6da9f2245ec8b5ea22b/logos/aws-cloudwatch.svg"></code>
+  <code><img title="DynamoDB" height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/11f54bac1b6dfad2cbd1c6da9f2245ec8b5ea22b/logos/aws-dynamodb.svg"></code>
+  <code><img title="IAM" height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/11f54bac1b6dfad2cbd1c6da9f2245ec8b5ea22b/logos/aws-iam.svg"></code>
+  <code><img title="Route53" height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/11f54bac1b6dfad2cbd1c6da9f2245ec8b5ea22b/logos/aws-route53.svg"></code>
+  <code><img title="S3" height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/11f54bac1b6dfad2cbd1c6da9f2245ec8b5ea22b/logos/aws-s3.svg"></code>
+</p>
+
 <hr>
 
 <h2 align="center">⚡ Estadísticas ⚡</h2>
@@ -111,9 +147,9 @@ Material-ICC-2021-1"><img align="center" height="115" src="https://github-readme
 <a href="https://www.linkedin.com/in/emmanuel-cruz-hern%C3%A1ndez-42607520a/" title="contacto">
   <img align="left" height="80" src="https://github.com/EmmanuelCruz/EmmanuelCruz/blob/main/Resources/linkedin-logo.png" alt="linkedin" />
 </a>
-<a href="https://codenowprogramming.000webhostapp.com/" title="contacto">
+<!-- <a href="https://codenowprogramming.000webhostapp.com/" title="contacto">
   <img align="left" height="80" src="https://github.com/EmmanuelCruz/EmmanuelCruz/blob/main/Resources/icono_verde.png" alt="codenow" />
-</a>
+</a> -->
 </p>
 <br><br><br><br>
 
