@@ -17,7 +17,7 @@
   <br>
   💻 Me encanta programar, escribir código y aprender nuevas técnicas y tecnologías para la programación y el diseño.
   <br>
-  📚 Actualmente estoy aprendiendo React y desarrollando Skills de Alexa, Amazon.
+  📚 Actualmente estoy aprendiendo React Native y practico en el desarrollo de Skills de Alexa, Amazon.
 </p>
 
 <hr>
